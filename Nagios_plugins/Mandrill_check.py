@@ -1,6 +1,6 @@
 #!/usr/bin/python
 ######################################################
-# Name : count_mandrill_tags.py                      #
+# Name : Mandrill_check.py                           #
 ######################################################
 import sys
 import json
